@@ -1,3 +1,3 @@
 # literacy
 
-test
+槙野の主張
