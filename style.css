@@ -4,11 +4,11 @@ th{ color:white;
   backgraoundcolor: orange;
   }
 
-table,th,td{
+th,td{
   border:1px solid black;
-  
-}
-   
+  }
+
+table{ border-collapse:collapse;}
    
   
 
