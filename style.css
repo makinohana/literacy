@@ -1,2 +1,14 @@
-em{ color:white
-  backgraoundcolor: orange; }
+em{ color:green;}
+
+th{ color:white;
+  backgraoundcolor: orange;
+  }
+
+table,th,td{
+  border:1px solid black;
+  
+}
+   
+   
+  
+
